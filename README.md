@@ -23,3 +23,5 @@
     > -k 是 shadowsocks 连接密码
     > -m 是加密方式， 我们统一都是 aes-256-cfb， 不要改
     浏览器插件配置请参见 http://ttt.tt/150
+    
+    about:config
